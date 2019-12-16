@@ -15,6 +15,8 @@ namespace sast_test.Controllers
 
         public ActionResult Test(string unsafeSql)
         {
+            new Regex(unsafeSql);
+        
             var service = new DummyService();
 
             service.execute("select * from [sys].[all_views] where name='" + unsafeSql + "'");
