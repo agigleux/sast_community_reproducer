@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Text.RegularExpressions;
 
-namespace sast_test.Controllers
+namespace sast_reproducer.Controllers
 {
     public class HomeController : Controller
     {

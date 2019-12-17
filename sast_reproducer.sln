@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sast_test", "sast_test\sast_test.csproj", "{093E8F21-1F44-42A3-BFFA-160B50403D3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sast_reproducer", "sast_reproducer\sast_reproducer.csproj", "{093E8F21-1F44-42A3-BFFA-160B50403D3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

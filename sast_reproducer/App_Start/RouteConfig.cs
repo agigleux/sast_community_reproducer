@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace sast_test
+namespace sast_reproducer
 {
     public class RouteConfig
     {
